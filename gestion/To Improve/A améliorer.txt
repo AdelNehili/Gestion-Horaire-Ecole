@@ -9,3 +9,6 @@
 5) Véritablement créer une liste de couleur au lieux de faire liste = ["r","v","b",....]
 6) Faire en sorte que,pour la fonction try_to_color_nodes, la lecture de nodes se fasse de manière décroissante en fonction de degré de chaque node
 7) Rationnaliser le code de sorte à ce que les (size/color)_map ne soient plus en variable de function puisqu'ils sont passés en attribut de la class
+8) Penser une manière de gérer l'attribut class_room pour aussi lui donner une valeur
+9) Enregistrer la réponse quelque part
+10 ) Réfléchir à comment partir d'un état déjà éxistant et chercher à le remplir.
